@@ -1,0 +1,2 @@
+This folder represents the backend structure for the LMS project.
+Actual implementation is not required for this assignment.
